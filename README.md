@@ -1,18 +1,18 @@
-# 🧠 My Technical Notes (NTS)
+# 📁 prj-index
 
-> One topic = one repo. Focused, minimal, and personal.
+> A collection of all projects organized by categories: Frontend, Backend, and Design.
 
-## 📚 Index of Notes
+## 📚 Projects
 
-### 🐧 Linux
-- [nts-xorg](https://github.com/zimindev/nts-xorg) — Xorg setup & configs
-- [nts-grub](https://github.com/zimindev/nts-grub) — GRUB fixes
-- [nts-bashrc](https://github.com/zimindev/nts-bashrc) — Useful bashrc aliases
+### 🖥️ Frontend
+- [prj-frontend](https://github.com/zimindev/prj-frontend) — Frontend development notes, best practices, and setups.
 
-### 🌐 Networking
-- [nts-ssh](https://github.com/zimindev/nts-ssh) — SSH keys, config, tips
-- [nts-netctl](https://github.com/zimindev/nts-netctl) — Arch netctl configs
+### 🔙 Backend
+- [prj-backend](https://github.com/zimindev/prj-backend) — Backend development, databases, APIs, and server configurations.
 
-### ⚙️ Tools
-- [nts-vscode](https://github.com/zimindev/nts-vscode) — VSCode setup
-- [nts-pacman](https://github.com/zimindev/nts-pacman) — Pacman usage & tricks
+### 🎨 Design
+- [prj-figma](https://github.com/zimindev/prj-figma) — Figma design, UI/UX principles, and prototype notes.
+
+---
+
+For more details, check out [My Technical Notes (NTS)](https://github.com/zimindev/nts-index) and explore other topics like Linux, Networking, and Tools.
